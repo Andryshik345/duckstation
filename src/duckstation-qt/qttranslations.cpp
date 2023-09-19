@@ -212,7 +212,8 @@ std::vector<std::pair<QString, QString>> QtHost::GetAvailableLanguageList()
           {QStringLiteral("Português (Br)"), QStringLiteral("pt-BR")},
           {QStringLiteral("Русский"), QStringLiteral("ru")},
           {QStringLiteral("Türkçe"), QStringLiteral("tr")},
-          {QStringLiteral("简体中文"), QStringLiteral("zh-CN")}};
+          {QStringLiteral("简体中文"), QStringLiteral("zh-CN")},
+          {QStringLiteral("Українська"), QStringLiteral("uk")}};
 }
 
 const char* QtHost::GetDefaultLanguage()
