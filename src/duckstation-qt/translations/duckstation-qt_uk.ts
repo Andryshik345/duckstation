@@ -21,7 +21,7 @@
     <message>
       <location filename="../aboutdialog.cpp" line="34"/>
       <source>DuckStation is a free and open-source simulator/emulator of the Sony PlayStation&lt;span style=&quot;vertical-align:super;&quot;&gt;TM&lt;/span&gt; console, focusing on playability, speed, and long-term maintainability.</source>
-      <translation>DuckStation це безкоштовний з відкритим вихідним кодом симулятор/емулятор гральної консолі Sony PlayStation&lt;span style=&quot;vertical-align:super;&quot;&gt;TM&lt;/span&gt;, який зосереджується на грабельністі, швидкодії, та довготривалому обслуговуванні.</translation>
+      <translation>DuckStation це безкоштовний симулятор/емулятор гральної консолі Sony PlayStation з відкритим вихідним кодом&lt;span style=&quot;vertical-align:super;&quot;&gt;TM&lt;/span&gt;, який зосереджується на грабельністі, швидкодії, та довготривалому обслуговуванні.</translation>
     </message>
     <message>
       <location filename="../aboutdialog.cpp" line="37"/>
